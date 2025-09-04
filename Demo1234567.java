@@ -5,5 +5,6 @@ public class Demo{
 		//Protection p = new Protection();
 		//Derived d = new Derived();
 		SamePackage s = new SamePackage();
+		System.out.println("Hello World");
 	}
 }
